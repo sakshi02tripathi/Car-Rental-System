@@ -32,5 +32,4 @@ This is a **Car Rental Management System** project developed to streamline and a
 - **Back-end**: PHP
 - **Database**: MySQL
 
-## Project Structure
 
